@@ -1,3 +1,2 @@
 ## Guess My Number Game
-#### Click the link below
-#### https://saisapura.github.io/Guess-My-Number/
+#### [Have a look!](https://saisapura.github.io/Guess-My-Number/)
