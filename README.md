@@ -1,2 +1,2 @@
 # Guess-My-Number
-### Happy coding during my Js learning with a bit of coding challenge
+### Happy coding during Js learning with a bit of coding challenge
