@@ -1,2 +1,3 @@
-# Guess-My-Number
-### Happy coding during Js learning with a bit of coding challenge
+## Guess My Number Game
+#### Click the link below
+#### https://saisapura.github.io/Guess-My-Number/
